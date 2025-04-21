@@ -18,7 +18,8 @@ source venv/bin/activate
 # 2. Instale as dependências
 pip install -r requirements.txt
 
-# 3. Execute o pré-processamento\python src/preprocess.py
+# 3. Execute o pré-processamento\python
+src/preprocess.py
 
 # 4. Treine e registre os modelos
 python src/train.py
