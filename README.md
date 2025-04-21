@@ -1,4 +1,3 @@
-"""
 ## 📦 Execução do Projeto MLOps
 
 ### 🧱 Pré-requisitos
@@ -73,4 +72,3 @@ Para garantir a performance contínua do modelo, foi implementado um mecanismo d
 A API (`main.py`) carrega sempre a **última versão registrada** automaticamente. Assim, o sistema é capaz de se adaptar a mudanças no comportamento dos dados sem necessidade de intervenção manual.
 
 Esse ciclo fecha o loop de MLOps com: **Treinamento → Deploy → Monitoramento → Re-treinamento → Redeploy**.
-"""
