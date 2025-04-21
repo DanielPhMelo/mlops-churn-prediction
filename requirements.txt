@@ -1,0 +1,8 @@
+txt
+CopyEdit
+fastapi
+uvicorn
+pandas
+scikit-learn
+mlflow
+evidently==0.6.7

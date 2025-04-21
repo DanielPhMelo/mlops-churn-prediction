@@ -1,0 +1,24 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos Jupyter Notebook temporários
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Outros
+mlruns/
+*.pyc
+*.pkl
+*.log
+*.html
+*.docx
